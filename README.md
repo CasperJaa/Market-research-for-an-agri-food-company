@@ -1,4 +1,4 @@
-![alt text](https://github.com/CasperJaa/Wine-Boutique-Bottleneck-/blob/main/Logo.jpg?raw=true)
+![alt text](https://github.com/CasperJaa/Market-research-for-an-agri-food-company/blob/main/logo.jpg)
 
 # Market-research-for-an-agri-food-company
 > Data gathering using PESTEL criteria.
