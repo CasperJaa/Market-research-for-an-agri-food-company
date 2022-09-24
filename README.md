@@ -1,9 +1,9 @@
 ![alt text](https://github.com/CasperJaa/Market-research-for-an-agri-food-company/blob/main/logo.jpg)
 
 # Market-research-for-an-agri-food-company
-> Data gathering using PESTEL criteria.
-> PCA for feature reduction and to avoid potential multi-colinearity issues
-> Machine learning techniques (KMeans and hierarchical clustering) to create coherent groups.
+1. Data gathering using PESTEL criteria.
+2. PCA for feature reduction and to avoid potential multi-colinearity issues.
+3. Machine learning techniques (KMeans and hierarchical clustering) to create coherent groups.
 
 ## Processed data:
 
